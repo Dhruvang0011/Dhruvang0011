@@ -16,9 +16,11 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<table>
+<div align="center">
+
+<table style="border: none;">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌟 Quick Facts About Me
 
@@ -31,13 +33,15 @@
 - 🗂️ Portfolio coming soon... stay tuned!
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" style="border-radius:10px;" alt="Quick Facts Animation" />
 </div>
 </td>
 </tr>
 </table>
+
+</div>
 
 <!-- Profile Views and Followers Badges -->
 <p align="center">
