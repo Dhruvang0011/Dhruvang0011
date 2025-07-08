@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<table style="border: none;">
+<table style="border: none;" border=0>
 <tr>
 <td width="50%" valign="top">
 
