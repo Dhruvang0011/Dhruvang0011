@@ -204,4 +204,4 @@
 <sub>⭐ Star this repository if you found it helpful!</sub>
 
 </div>
-![GitHub Snake animation](https://github.com/Dhruvang0011/Dhruvang0011/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake animation](https://raw.githubusercontent.com/Dhruvang0011/Dhruvang0011/output/github-contribution-grid-snake.svg)
