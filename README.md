@@ -143,13 +143,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruvang0011/Dhruvang0011/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruvang0011/Dhruvang0011/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub Contribution Grid Snake Animation" 
-       src="https://raw.githubusercontent.com/Dhruvang0011/Dhruvang0011/output/github-contribution-grid-snake-dark.svg"
-       width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Dhruvang0011/Dhruvang0011/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Snake Animation" />
 
 🐍 This snake eats my GitHub contributions! Updates every 12 hours.
 </div>
@@ -204,4 +198,3 @@
 <sub>⭐ Star this repository if you found it helpful!</sub>
 
 </div>
-<img src="https://raw.githubusercontent.com/Dhruvang0011/Dhruvang0011/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Snake Animation" />
